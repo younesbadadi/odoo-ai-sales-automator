@@ -9,8 +9,8 @@ AI Sales Agent for Odoo: Automatically transform unstructured customer emails in
 Stop manual data entry. This professional-grade automation uses **Google's Gemini 1.5 Flash** to transform unstructured customer emails into Odoo sales quotations in real-time.
 
 ## Product Demo
-![Watch the automation in action]
----
+
+[Watch the video](https://youtu.be/YmofsrGCaVI)
 
 ---
 
