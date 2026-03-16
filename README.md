@@ -1,6 +1,9 @@
 # odoo-ai-sales-automator
 AI Sales Agent for Odoo: Automatically transform unstructured customer emails into professional quotations in seconds. Powered by Google Gemini 1.5 Flash, n8n, and Telegram. Eliminate manual data entry and scale your sales operations with enterprise-grade automation.
 
+<img width="1231" height="258" alt="Captura de pantalla 2026-03-16 a las 14 33 10" src="https://github.com/user-attachments/assets/76d9f70d-56da-4c07-9290-157887b76b84" />
+
+
 # Odoo AI Sales Automator (Powered by Gemini 1.5)
 
 Stop manual data entry. This professional-grade automation uses **Google's Gemini 1.5 Flash** to transform unstructured customer emails into Odoo sales quotations in real-time.
