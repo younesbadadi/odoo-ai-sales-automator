@@ -1,41 +1,54 @@
 # odoo-ai-sales-automator
-AI Sales Agent for Odoo: Automatically transform unstructured customer emails into professional quotations in seconds. Powered by Google Gemini 1.5 Flash, n8n, and Telegram. Eliminate manual data entry and scale your sales operations with enterprise-grade automation.
 
-<img width="1231" height="258" alt="Captura de pantalla 2026-03-16 a las 14 33 10" src="https://github.com/user-attachments/assets/76d9f70d-56da-4c07-9290-157887b76b84" />
+**Full-Cycle AI Sales & Inventory Agent for Odoo:** Transform unstructured customer emails into professional **Sales Quotations** while autonomously managing stock levels and **Purchase Orders**.
+
+<img width="1308" height="268" alt="Captura de pantalla 2026-03-25 a las 8 45 52" src="https://github.com/user-attachments/assets/0e156ca9-abcc-4043-95af-ce343132da5e" />
 
 
-# Odoo AI Sales Automator (Powered by Gemini 1.5)
+## Overview
 
-Stop manual data entry. This professional-grade automation uses **Google's Gemini 1.5 Flash** to transform unstructured customer emails into Odoo sales quotations in real-time.
+Stop manual data entry and inventory bottlenecks. This enterprise-grade automation uses **Google's Gemini 1.5 Flash** to bridge the gap between customer intent and Odoo’s Sales, Inventory, and Purchasing modules. It doesn't just "read" emails; it understands the business context and acts on it.
 
 ## Product Demo
-
-[Watch the video](https://youtu.be/YmofsrGCaVI)
+[Watch the video on YouTube](https://youtu.be/oXlA_Szekzc)
 
 ---
 
 ## Key Features
-- **Lightning-Fast Processing:** From email arrival to Odoo quote in under 10 seconds.
-- **Enterprise-Grade AI:** Powered by Google Gemini 1.5 Flash for high-accuracy data extraction.
-- **Intelligent CRM Logic:** Automatically identifies existing customers or creates new contacts on the fly.
-- **Smart Mapping:** Converts natural language (e.g., "half a dozen", "a pair") into precise numerical quantities.
-- **Instant Telegram Alerts:** Immediate mobile notifications with deep-links to the generated document.
+
+* **Instant Sales Quotations:** Automatically transforms incoming emails into professional **Odoo Quotations (SO)** in under 10 seconds.
+* **Enterprise-Grade AI:** High-accuracy data extraction powered by **Gemini 1.5 Flash**, capable of handling unstructured natural language and complex requests.
+* **Intelligent CRM Logic:** Automatically identifies existing customers by email or creates new contacts on the fly with zero duplication.
+* **Real-Time Stock Validation:** Before generating the quote, the agent cross-references Odoo's real-time inventory to verify product availability.
+* **Autonomous Procurement (Just-in-Time):** If stock is insufficient to fulfill the sale, the agent automatically triggers a **Purchase Order (PO)** to the preferred supplier, ensuring you never miss a sales opportunity.
+* **Smart Mapping & Logic:** Converts natural language (e.g., "half a dozen", "a pack of 10") into precise numerical units and specific Odoo SKUs.
+* **Omnichannel Alerts:** Real-time **Telegram notifications** for the sales team, including deep-links directly to the generated Sales Quote and Purchase Order.
+
+---
 
 ## The Tech Stack
-- **n8n:** Enterprise workflow orchestration.
-- **Google Gemini 1.5 Flash:** High-speed LLM for data extraction.
-- **Odoo ERP:** Backend for sales, inventory, and CRM.
-- **Telegram Bot API:** For real-time sales team notifications.
+
+| Tool | Purpose |
+| :--- | :--- |
+| **n8n** | Enterprise workflow orchestration and logic. |
+| **Google Gemini 1.5 Flash** | High-speed LLM for data extraction and supply chain decision-making. |
+| **Odoo ERP** | Central backend for Sales, Inventory, and Purchase modules. |
+| **Telegram Bot API** | Real-time operations monitoring and instant alerts. |
 
 ---
 
 ## Implementation & Consulting
-Looking to automate your sales pipeline? I specialize in building custom AI-driven workflows that integrate seamlessly with Odoo. 
+
+Looking to automate your entire sales-to-purchase cycle? I specialize in building custom AI-driven workflows that connect your sales funnel directly with your inventory and supply chain.
 
 **What I offer:**
-- Full setup of the n8n + Gemini + Odoo ecosystem.
-- Custom prompt engineering tailored to your specific product catalog.
-- Ongoing support and workflow optimization.
+* **End-to-End Setup:** Full deployment of the n8n + Gemini + Odoo ecosystem.
+* **Supply Chain Logic:** Custom **Auto-Stock Replenishment** rules linked to Sales Quotations.
+* **Prompt Engineering:** Custom AI instructions tailored to your specific product catalog and SKU complexity.
+* **Ongoing Optimization:** Continuous workflow monitoring and performance tuning.
 
-📩 **Contact me:** younesbadadi@icloud.com
-🔗 **LinkedIn:** (https://www.linkedin.com/in/younes-el-badadi-1a0673355/)
+📩 **Contact me:** [younesbadadi@icloud.com](mailto:younesbadadi@icloud.com)
+🔗 **LinkedIn:** [Younes El Badadi](https://www.linkedin.com/in/younes-el-badadi-1a0673355/)
+
+---
+*Developed with ❤️ to help businesses scale through intelligent automation.*
